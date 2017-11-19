@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Paragraf>
+    <id>1</id>
+    <parent_id>0</parent_id>
+    <name>Описание программы</name>
+    <text_url>Help/1.Welcome.htm</text_url>    
+   </Paragraf>
+<Paragraf>
+    <id>2</id>
+    <parent_id>0</parent_id>
+    <name>Описание методик</name>
+    <text_url></text_url>
+  </Paragraf>
+<Paragraf>
+    <id>3</id>
+    <parent_id>0</parent_id>
+    <name>Формулы</name>
+    <text_url>Help/5.OsnPon.htm</text_url>
+  </Paragraf>
+<Paragraf>
+    <id>4</id>
+    <parent_id>0</parent_id>
+    <name>Пример</name>
+    <text_url>Help/6.Primer.htm</text_url> 
+  </Paragraf>
+
+ <Paragraf>
+    <id>5</id>
+    <parent_id>1</parent_id>
+    <name>Краткое описание программы</name>
+    <text_url>Help/1.Welcome.htm</text_url>
+  </Paragraf>
+
+ <Paragraf>
+    <id>6</id>
+    <parent_id>2</parent_id>
+    <name>Сканирования с усреднением</name>
+    <text_url>Help/2.MethodScanMean.htm</text_url>
+  </Paragraf>
+<Paragraf>
+    <id>7</id>
+    <parent_id>2</parent_id>
+    <name>Сканирования</name>
+    <text_url>Help/3.MethodScan.htm</text_url>
+  </Paragraf>
+<Paragraf>
+    <id>8</id>
+    <parent_id>2</parent_id>
+    <name>Многоточечный (Микроплаг)</name>
+    <text_url>Help/4.MethodMicroplag.htm</text_url>
+  </Paragraf>
+
+<Paragraf>
+    <id>9</id>
+    <parent_id>3</parent_id>
+    <name>Основные понятия</name>
+    <text_url>Help/5.OsnPon.htm</text_url>
+  </Paragraf>
+<Paragraf>
+    <id>9</id>
+    <parent_id>3</parent_id>
+    <name>Формулы</name>
+    <text_url>Help/51.Formula.htm</text_url>
+  </Paragraf>
+
+
+</NewDataSet>

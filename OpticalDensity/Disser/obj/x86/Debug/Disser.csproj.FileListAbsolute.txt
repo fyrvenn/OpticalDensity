@@ -1,0 +1,108 @@
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormEtalon.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormHelp.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormImage.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormImageResult.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormKit.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormMain.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormStatistics.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.Properties.Resources.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.csproj.GenerateResource.Cache
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.Proof.FormColorSpace.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.Proof.FormTest.resources
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.csprojResolveAssemblyReference.cache
+D:\Учеба\К диплому\Disser\Disser\bin\Debug\Disser.exe
+D:\Учеба\К диплому\Disser\Disser\bin\Debug\Disser.pdb
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.exe
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.pdb
+D:\Учеба\К диплому\Disser\Disser\obj\x86\Debug\Disser.FormBase.resources
+D:\Учеба\К диплому\Disser\Disser\bin\Debug\Database1.sdf
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.exe
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.pdb
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.csprojResolveAssemblyReference.cache
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormBase.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormEtalon.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormHelp.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormImage.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormImageResult.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormKit.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormMain.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormStatistics.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.Proof.FormColorSpace.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.Proof.FormTest.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.Properties.Resources.resources
+D:\Учеба\С каталогом\Disser\Disser\obj\x86\Debug\Disser.csproj.GenerateResource.Cache
+D:\Учеба\С каталогом\Disser\Disser\bin\Debug\Database1.sdf
+D:\Учеба\С каталогом\Disser\Disser\bin\Debug\Disser.exe
+D:\Учеба\С каталогом\Disser\Disser\bin\Debug\Disser.pdb
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.exe
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.pdb
+F:\С каталогом\Disser\Disser\bin\Debug\Database1.sdf
+F:\С каталогом\Disser\Disser\bin\Debug\Disser.exe
+F:\С каталогом\Disser\Disser\bin\Debug\Disser.pdb
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.csprojResolveAssemblyReference.cache
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormBase.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormEtalon.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormHelp.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormImage.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormImageResult.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormKit.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormMain.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.FormStatistics.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.Proof.FormColorSpace.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.Proof.FormTest.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.Properties.Resources.resources
+F:\С каталогом\Disser\Disser\obj\x86\Debug\Disser.csproj.GenerateResource.Cache
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.exe
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.pdb
+D:\DIPLOM\Disser\Disser\bin\Debug\Database1.sdf
+D:\DIPLOM\Disser\Disser\bin\Debug\Disser.exe
+D:\DIPLOM\Disser\Disser\bin\Debug\Disser.pdb
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.csprojResolveAssemblyReference.cache
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormBase.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormEtalon.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormHelp.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormImage.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormImageResult.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormKit.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormMain.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormStatistics.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Proof.FormColorSpace.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Proof.FormTest.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Properties.Resources.resources
+D:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.csproj.GenerateResource.Cache
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.exe
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.pdb
+E:\DIPLOM\Disser\Disser\bin\Debug\Database1.sdf
+E:\DIPLOM\Disser\Disser\bin\Debug\Disser.exe
+E:\DIPLOM\Disser\Disser\bin\Debug\Disser.pdb
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.csprojResolveAssemblyReference.cache
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormBase.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormEtalon.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormHelp.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormImage.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormImageResult.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormKit.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormMain.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormStatistics.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Proof.FormColorSpace.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Proof.FormTest.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Properties.Resources.resources
+E:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.csproj.GenerateResource.Cache
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.exe
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.pdb
+G:\DIPLOM\Disser\Disser\bin\Debug\Database1.sdf
+G:\DIPLOM\Disser\Disser\bin\Debug\Disser.exe
+G:\DIPLOM\Disser\Disser\bin\Debug\Disser.pdb
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.csprojResolveAssemblyReference.cache
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormBase.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormEtalon.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormHelp.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormImage.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormImageResult.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormKit.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormMain.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.FormStatistics.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Proof.FormColorSpace.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Proof.FormTest.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.Properties.Resources.resources
+G:\DIPLOM\Disser\Disser\obj\x86\Debug\Disser.csproj.GenerateResource.Cache
